@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Thesis"] 1758268362.3919 "Thesis.aux" "Thesis.bbl" "Thesis" 1758268362.76271 2
+["bibtex Thesis"] 1758279245.1992 "Thesis.aux" "Thesis.bbl" "Thesis" 1758279245.48289 2
   "./Thesis_bibliography.bib" 1758267376 149664 d9f7d799ec6755727d231bab379d2434 ""
   "C:/Users/petra/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/unsrtnat.bst" 1284455456 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
-  "Thesis.aux" 1758268360 48428 45b14ffc35f396f78f2d590a8197d5e2 "pdflatex"
+  "Thesis.aux" 1758279237 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "Thesis.bbl"
   "Thesis.blg"
   (rewritten before read)
-["pdflatex"] 1758268354.88071 "c:/uni/1tesi_poli/tesi/Thesis.tex" "Thesis.pdf" "Thesis" 1758268362.76334 0
+["pdflatex"] 1758279238.34763 "c:/uni/1tesi_poli/tesi/Thesis.tex" "Thesis.pdf" "Thesis" 1758279244.50227 0
   "C:/Users/petra/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758267459 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/petra/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi1244/ecbx1200.pk" 1758267478 74568 2604ea0a857eb125c710c1427f8389d1 ""
   "C:/Users/petra/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi2500/ecbx1200.pk" 1758267471 154876 dee0628b11f6d828af9cb6d4ee5a4ecc ""
@@ -295,14 +295,14 @@
   "Images/tensor.png" 1758267376 26731 8ebc355bae7f22d760e8284c578ff68b ""
   "Images/tractography.png" 1758267376 2257076 0d89e9b82d45be2c003089f5f1a254cf ""
   "Images/wm_matrix_CM_10.jpg" 1758267376 16442 08aae5c629416d8a576e77356a433ea2 ""
-  "Thesis.aux" 1758268360 48428 45b14ffc35f396f78f2d590a8197d5e2 "pdflatex"
-  "Thesis.bbl" 1758268362 30872 80eaa4dee356809087dd56b83f839fdf "bibtex Thesis"
-  "Thesis.lof" 1758268361 11579 f417d7507d1d2c3207baa768191cf7c7 "pdflatex"
-  "Thesis.lot" 1758268361 582 b07df7073615713d12520755e01755a8 "pdflatex"
-  "Thesis.out" 1758268361 10047 5a14229a7c9d03d58f6125ccbc9059a9 "pdflatex"
-  "Thesis.tex" 1758268343 14552 8524c1ce6a5df5180bfa158a8d521615 ""
-  "Thesis.toc" 1758268361 5086 57b2babc9a1e0c4706bf22517e7c9170 "pdflatex"
-  "c:/uni/1tesi_poli/tesi/Thesis.tex" 1758268343 14552 8524c1ce6a5df5180bfa158a8d521615 ""
+  "Thesis.aux" 1758279237 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Thesis.bbl" 1758279245 0 d41d8cd98f00b204e9800998ecf8427e "bibtex Thesis"
+  "Thesis.lof" 0 -1 0 "pdflatex"
+  "Thesis.lot" 0 -1 0 "pdflatex"
+  "Thesis.out" 0 -1 0 "pdflatex"
+  "Thesis.tex" 1758279237 14344 cd76e2202c00d1fdc56380ec30063882 ""
+  "Thesis.toc" 0 -1 0 "pdflatex"
+  "c:/uni/1tesi_poli/tesi/Thesis.tex" 1758279237 14344 cd76e2202c00d1fdc56380ec30063882 ""
   "chapter_1.tex" 1758267376 53221 b0336d689ca4df0ac176201d7fe8c7e3 ""
   "chapter_2.tex" 1758267376 23765 bb60e0c40007d1e0351156d520d271e3 ""
   "chapter_3.tex" 1758267376 14380 1d3fab64f9b877bcaedf5435893bc950 ""
